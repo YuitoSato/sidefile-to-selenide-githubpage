@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sidefile-selenide/static/css/main.ddd17464.chunk.css",
+    "main.js": "/sidefile-selenide/static/js/main.9b302871.chunk.js",
+    "main.js.map": "/sidefile-selenide/static/js/main.9b302871.chunk.js.map",
+    "runtime~main.js": "/sidefile-selenide/static/js/runtime~main.e8240e62.js",
+    "runtime~main.js.map": "/sidefile-selenide/static/js/runtime~main.e8240e62.js.map",
+    "static/js/2.6bac8f0f.chunk.js": "/sidefile-selenide/static/js/2.6bac8f0f.chunk.js",
+    "static/js/2.6bac8f0f.chunk.js.map": "/sidefile-selenide/static/js/2.6bac8f0f.chunk.js.map",
+    "index.html": "/sidefile-selenide/index.html",
+    "precache-manifest.245692914047599874a67bf44da4f151.js": "/sidefile-selenide/precache-manifest.245692914047599874a67bf44da4f151.js",
+    "service-worker.js": "/sidefile-selenide/service-worker.js",
+    "static/css/main.ddd17464.chunk.css.map": "/sidefile-selenide/static/css/main.ddd17464.chunk.css.map"
+  }
+}
